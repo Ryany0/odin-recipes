@@ -1,0 +1,1 @@
+Use HTML to create a simple links to recipes
